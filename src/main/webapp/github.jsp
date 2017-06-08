@@ -7,6 +7,6 @@
 <title></title> 
 </head>
 <body>
-<H1>Github 실습 3</H1>
+<H1>Github 실습 3마더뻑</H1>
 </body>
 </html>
